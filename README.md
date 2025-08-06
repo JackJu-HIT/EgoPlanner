@@ -24,4 +24,7 @@ make
 
 # 参考项目
 https://github.com/ZJU-FAST-Lab/ego-planner.git
+# 细节说明
+
+请关注我们的微信公众号：机器人规划与控制研究所   文章链接：https://mp.weixin.qq.com/s/Rh3rQ0CQFDIr51QNQccWwA
 
