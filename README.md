@@ -1,4 +1,4 @@
-# FastPlanner: 2D Real-time Trajectory Optimizer
+# EgoPlanner: 2D Real-time Trajectory Optimizer
 
 [![C++](https://img.shields.io/badge/Language-C++-blue.svg)](https://isocpp.org/)
 [![Build](https://img.shields.io/badge/Build-CMake-brightgreen.svg)](https://cmake.org/)
@@ -65,8 +65,3 @@ make
 ---
 *Created by JackJu-HIT*
 
-### 修改建议说明：
-
-1.  **图片链接**：原链接使用了 `blob`，在某些情况下无法直接在 README 中渲染。我将其修改为了 `raw` 链接 (`https://github.com/JackJu-HIT/EgoPlanner/raw/master/results.png`)，这样更稳定。
-2.  **B站链接**：原链接包含 `?spm_id_from=...` 等追踪参数，显得很长且不整洁，我将其精简为纯视频链接。
-3.  **描述修正**：原文中“将三维轨迹**将**为2维轨迹”应该是笔误，我修改为“**降**为”或“适配为”。
